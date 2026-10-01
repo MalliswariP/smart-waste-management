@@ -1,0 +1,5 @@
+__pycache__/n*.pyc
+smart_waste.db
+uploads/
+.env
+.vscode/
